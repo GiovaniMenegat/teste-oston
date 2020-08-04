@@ -5,7 +5,7 @@ Para clonar e rodar a aplicação, você vai precisar do [Git](https://git-scm.c
 
 ```bash
 # Clonar o repositório
-$ git clone *link do respositório*
+$ git clone https://github.com/GiovaniMenegat/teste-oston.git
 
 # Go into the repository
 $ cd teste-oston
